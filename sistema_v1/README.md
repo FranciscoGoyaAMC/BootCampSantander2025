@@ -54,7 +54,3 @@ Depósito realizado com sucesso.
 Francisco Goya
 Estudante de Análise e Desenvolvimento de Sistemas
 Bootcamp Santander Backend com Python - DIO/Santander Open Academy
-
-## Licença
-
-Este projeto está licenciado sob a Licença MIT.
