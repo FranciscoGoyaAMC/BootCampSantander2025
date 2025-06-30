@@ -9,8 +9,9 @@ Este repositório será atualizado ao longo da minha jornada no bootcamp, com im
 ## 📂 Estrutura do Repositório
 
 * `sistema_v1/`: Primeira versão do sistema bancário implementado em Python.
+* `sistema_v2/`: Segunda versão do sistema com funcionalidades ampliadas, incluindo cadastro de usuários e criação de contas correntes vinculadas.
 
-Próximas versões e desafios serão adicionados em pastas separadas como `sistema_v2/`, entre outras.
+Próximas versões e desafios serão adicionados em pastas separadas, acompanhando a evolução do bootcamp.
 
 ---
 
@@ -22,6 +23,7 @@ Aplicar os conhecimentos adquiridos ao longo do bootcamp para desenvolver soluç
 * Estruturas de decisão e repetição
 * Funções e boas práticas de programação
 * Lógica e organização de sistemas
+* Modelagem de dados com listas e dicionários
 
 ---
 
